@@ -130,8 +130,6 @@ Implement proper error handling
 Document all major functions
 Include unit tests for new features
 
-SUPPORT
-For technical support or queries, contact course tutors during designated support hours (September 9 to October 3, 2024).
 PROJECT TIMELINE
 
 Development Period: Current - October 4, 2024
